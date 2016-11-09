@@ -1,3 +1,4 @@
 /WechatJSAPI/obj
 /WechatJSAPI/bin
-/WechatJSAPI/*.config
+/WechatJSAPI/Web.Release.config
+/WechatJSAPI/Web.Debug.config
